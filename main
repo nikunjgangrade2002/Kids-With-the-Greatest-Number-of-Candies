@@ -6,7 +6,7 @@ class Solution {
                 max = candies[i];
             }
         }
-   //merge sort define the main function
+   //merge sort definess the main function
     for the best sorting function tht is orgnizing the sort 
    
         List<Boolean> result = new ArrayList<>();
